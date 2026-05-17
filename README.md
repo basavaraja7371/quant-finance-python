@@ -27,7 +27,7 @@ A quantitative finance library built from first principles. Each module is indep
 
 ```bash
 # clone the repository
-git clone https://github.com/yourusername/quant-finance-python.git
+git clone https://github.com/basavaraja7371//quant-finance-python.git
 cd quant-finance-python
 
 # create virtual environment
